@@ -1,0 +1,120 @@
+/* Reset default margin and padding */
+*{
+  margin:0;
+  padding:0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  
+ }
+ 
+.navbar{
+ background-color:green;
+ }
+ 
+ nav H1{
+   font-size:2vm;
+   color:blue;
+ }
+ 
+ nav p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+.container-fluid2 img{
+  height: 100px;
+  width:100px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+ }
+ .container-fluid{
+  padding: auto;
+  }
+  
+  .remove-vid-marg{
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  video {
+    height:100px;
+    width:100px;
+  }
+.vid-parent{
+    position:relative;
+  }
+  
+/*.container video{
+    width:100%;
+    height:100%;
+  }*/
+  
+  
+  
+  .vid-content{
+    position: absolute;
+    z-index: 2;
+    top:20px;
+    left:400px;
+    text-align: center;
+    color:white;
+  }
+
+.container-fluid2{
+  border :2px solid sienna;
+margin-top:10px;
+}
+
+.container-fluid2 h1{
+  padding-top:20px;
+ 
+}
+
+.container6{
+  margin-top:150px;
+  background-color:green;
+}
+
+  .text{
+    color:CadetBlue;
+    padding-top:10px;
+    text-align: center;
+    
+  }
+ 
+ .container-5 img{
+   width: 300px;
+ }
+
+ 
+ 
+ 
+ .container-fluid3{
+   border: 2px solid sandybrown;
+   margin-top:100px;
+ }
+ 
+ #i1{
+   width:300px;
+   height: 300px;
+  }
+ 
+ #txt{
+   font-size: 45px;
+ }
+ 
+ .container-fluid3 h1{
+   margin-top:10px;
+   color:DarkBlue;
+   background-color: darkseagreen;
+   font-size: 50px;
+ }
+ 
+ .container-fluid3 p{
+   font-size: 45px;
+ }
+ .card img{
+   width:100%;
+   height:100%;
+ }
+ 
